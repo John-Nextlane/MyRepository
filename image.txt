@@ -1,0 +1,17 @@
+
+•
+•
+•
+•
+•
+•
+mkdir: To create a new directory
+cd: To navigate to a specific directory
+git init: To initiate a Git repository
+git add: To move the changes from the working directory to the staging area
+git commit: To commit the changes to the project
+git log: To browse the previous changes
+git branch: To create a new branch
+git checkout: To switch between the existing branches
+git merge: To update the branches with the main branch
+git status: To see the status of working directory
